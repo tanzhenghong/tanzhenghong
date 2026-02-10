@@ -24,6 +24,8 @@
 - I agree that **history repeats itself, if we never learn from mistakes**
 - My Kaggle: **T-Zen**
 - My Facebook: **Tan Zheng Hong**
+- Achievement of 2024: **Rubric Cube Award Winner**
+- Achievement of 2025: **3rd Place for Finance Infographic Competition**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
