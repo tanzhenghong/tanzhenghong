@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning **the advanced skills of machine learning, big data,Quantum machine learning, the advanced usage of Excel, PowerBi,Jupyter Notebook and structural equation modelling**
 
 - My Experience **Machine Learning Project, Financial Regression Analysis, Financial Econometric Analysis & Data Analytics Project**
+- My Soft skills: **Project Management, Teamwork, Time Management, Leadership, Effective Communication & Critical Thinking**
 
 - Data that I exposed **time series data and panel data**
 - Other relevant experience **data collection through relevant data sources, including London Stock Exchange Group, Bursa Malaysia, WorldBank, Yahoo Finance**
